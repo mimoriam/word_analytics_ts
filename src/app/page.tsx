@@ -1,7 +1,9 @@
+import Textarea from "@/app/components/Textarea";
+
 export default function Home() {
   return (
     <main>
-      <div>p</div>
+      <Textarea />
     </main>
   );
 }
